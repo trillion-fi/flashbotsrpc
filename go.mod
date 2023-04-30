@@ -1,4 +1,4 @@
-module github.com/metachris/flashbotsrpc
+module github.com/trillion-fi/flashbotsrpc
 
 go 1.18
 
